@@ -31,21 +31,12 @@ Welcome to our cutting-edge **Personalized Medical Recommendation System**, a po
 
 ---
 
-## 🖥️ Demo
-
-Check out the live demo of the system in action:  
-
-[![Watch Demo](https://img.youtube.com/vi/1Az9m5tTUezWl0v5RQH5_4K91qo9jh-VI/0.jpg)](https://drive.google.com/file/d/1Az9m5tTUezWl0v5RQH5_4K91qo9jh-VI/view?usp=sharing)  
-Click the image to view the demo video.
-
----
-
 ## ⚙️ Installation & Usage
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-   cd YOUR_REPOSITORY
+   git clone https://github.com/ARHAM543/AI-Medicine-Recommend-System-Using-Python.git
+   cd AI-Medicine-Recommend-System-Using-Python
    ```
 
 2. **Create virtual environment and install dependencies**:  
