@@ -79,7 +79,5 @@ We welcome contributions! If you want to improve the system or add features, fee
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
